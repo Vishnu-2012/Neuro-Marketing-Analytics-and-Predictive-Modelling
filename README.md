@@ -36,6 +36,9 @@ Generated performance metrics including training/testing accuracy, confusion mat
 This flowchart captures the EEG signal journey from raw acquisition to predictive output.
 ![EEG Pipeline](assets/eeg_pipeline_flowchart.png)
 
+## ✅ Results
+The project successfully identified key EEG features related to consumer preferences and developed predictive models with high accuracy. The statistical analysis provided deeper insights into brain signals, aiding in the interpretation of consumer responses to different types of advertisements.
+
 ## 📦 Prerequisites
 Python 3.x
 Libraries:
@@ -45,8 +48,11 @@ Scikit-learn
 PyWavelets
 Matplotlib
 Pandas
-**
 
-**Results**
-The project successfully identified key EEG features related to consumer preferences and developed predictive models with high accuracy. The statistical analysis provided deeper insights into brain signals, aiding in the interpretation of consumer responses to different types of advertisements.
+## Research Paper
+[Read the Full Paper](https://drive.google.com/file/d/1s1WmfV1_c2fySABZWe9GVOlVZ5po5tnQ/view?usp=sharing)
+
+
+
+
 
