@@ -4,7 +4,7 @@ This project focuses on analyzing EEG data to extract neuro-marketing metrics an
 
 ## 🧭 Methodology Flow
 This diagram outlines the step-by-step pipeline used in this project.
-![Methodology Flow](assets/methodology_flow.png)
+![Methodology Flow](assets/wave_decomposition.png)
 
 ## 🔧 EEG Data Processing
 
