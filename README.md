@@ -2,6 +2,10 @@
 ## 📌 Project Overview
 This project focuses on analyzing EEG data to extract neuro-marketing metrics and predict consumer preferences. The analysis pipeline includes EEG data preprocessing, feature extraction, and machine learning-based predictive modeling. The project also involves statistical analysis of brain signals to extract meaningful information, aiding in the understanding of consumer responses to various advertisements.
 
+## 🧭 Methodology Flow
+This diagram outlines the step-by-step pipeline used in this project.
+![Methodology Flow](assets/methodology_flow.png)
+
 ## 🔧 EEG Data Processing
 
 Applied filtering techniques, including bandpass and notch filters, to clean the raw EEG data.
