@@ -16,6 +16,10 @@ Segmented the EEG data into epochs for focused analysis.
 Performed wavelet decomposition to identify key EEG frequency bands, including Delta, Theta, Alpha, Beta, and Gamma.
 Extracted neuro-marketing metrics such as arousal, brain perfusion, cognitive performance, and vigilance indices.
 
+## 📉 Wavelet Decomposition
+Wavelet transformation isolates meaningful EEG frequency bands used for feature extraction.
+
+
 ## 📊 Statistical Analysis
 Utilized SPSS for in-depth analysis of brain signals to gain insights into the underlying EEG data.
 
@@ -26,6 +30,10 @@ Used SMOTE (Synthetic Minority Over-sampling Technique) for oversampling to addr
 Conducted hyperparameter tuning using random search and grid search methods.
 Evaluated ensemble and XGBoost models for predictive accuracy.
 Generated performance metrics including training/testing accuracy, confusion matrix, and ROC curves.
+
+## 🧩 System Architecture
+This flowchart captures the EEG signal journey from raw acquisition to predictive output.
+![EEG Pipeline](assets/eeg_pipeline_flowchart.png)
 
 ## 📦 Prerequisites
 Python 3.x
