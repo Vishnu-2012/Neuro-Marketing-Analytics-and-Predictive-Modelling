@@ -18,7 +18,7 @@ Extracted neuro-marketing metrics such as arousal, brain perfusion, cognitive pe
 
 ## 📉 Wavelet Decomposition
 Wavelet transformation isolates meaningful EEG frequency bands used for feature extraction.
-![Wave Output](assets/Wavelet Decomposition Waveforms.png)
+![Wavelet Output](assets/waveletdecompositionwaveform.png)
 
 
 ## 📊 Statistical Analysis
