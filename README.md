@@ -1,4 +1,20 @@
 # 🧠 Neuro-Marketing Analytics and Predictive Modeling
+
+## 🗂 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Methodology Flow](#methodology-flow)
+- [EEG Data Processing](#eeg-data-processing)
+- [Feature Extraction](#feature-extraction)
+- [Wavelet Decomposition](#wavelet-decomposition)
+- [Statistical Analysis](#statistical-analysis)
+- [Machine Learning Pipeline](#machine-learning-pipeline)
+- [System Architecture](#system-architecture)
+- [Results](#results)
+- [Prerequisites](#prerequisites)
+- [Research Paper](#research-paper)
+
+
 ## 📌 Project Overview
 This project focuses on analyzing EEG data to extract neuro-marketing metrics and predict consumer preferences. The analysis pipeline includes EEG data preprocessing, feature extraction, and machine learning-based predictive modeling. The project also involves statistical analysis of brain signals to extract meaningful information, aiding in the understanding of consumer responses to various advertisements.
 
