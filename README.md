@@ -15,32 +15,32 @@
 - [Research Paper](#research-paper)
 
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on analyzing EEG data to extract neuro-marketing metrics and predict consumer preferences. The analysis pipeline includes EEG data preprocessing, feature extraction, and machine learning-based predictive modeling. The project also involves statistical analysis of brain signals to extract meaningful information, aiding in the understanding of consumer responses to various advertisements.
 
-## 🧭 Methodology Flow
+## Methodology Flow
 This diagram outlines the step-by-step pipeline used in this project.
 ![Methodology Flow](assets/methodology_flow.png)
 
-## 🔧 EEG Data Processing
+## EEG Data Processing
 
 Applied filtering techniques, including bandpass and notch filters, to clean the raw EEG data.
 Segmented the EEG data into epochs for focused analysis.
 
-## 🎯 Feature Extraction
+## Feature Extraction
 
 Performed wavelet decomposition to identify key EEG frequency bands, including Delta, Theta, Alpha, Beta, and Gamma.
 Extracted neuro-marketing metrics such as arousal, brain perfusion, cognitive performance, and vigilance indices.
 
-## 📉 Wavelet Decomposition
+## Wavelet Decomposition
 Wavelet transformation isolates meaningful EEG frequency bands used for feature extraction.
 ![Wavelet Output](assets/waveletdecompositionwaveform.png)
 
 
-## 📊 Statistical Analysis
+## Statistical Analysis
 Utilized SPSS for in-depth analysis of brain signals to gain insights into the underlying EEG data.
 
-## 🤖 Machine Learning Pipeline
+##  Machine Learning Pipeline
 
 Implemented ANOVA feature selection to identify the most significant features.
 Used SMOTE (Synthetic Minority Over-sampling Technique) for oversampling to address class imbalance.
@@ -48,14 +48,14 @@ Conducted hyperparameter tuning using random search and grid search methods.
 Evaluated ensemble and XGBoost models for predictive accuracy.
 Generated performance metrics including training/testing accuracy, confusion matrix, and ROC curves.
 
-## 🧩 System Architecture
+## System Architecture
 This flowchart captures the EEG signal journey from raw acquisition to predictive output.
 ![EEG Pipeline](assets/eeg_pipeline_flowchart.png)
 
-## ✅ Results
+##  Results
 The project successfully identified key EEG features related to consumer preferences and developed predictive models with high accuracy. The statistical analysis provided deeper insights into brain signals, aiding in the interpretation of consumer responses to different types of advertisements.
 
-## 📦 Prerequisites
+##  Prerequisites
 Python 3.x
 Libraries:
 NumPy
